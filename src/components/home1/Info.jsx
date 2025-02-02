@@ -1,11 +1,17 @@
 import { useState } from "react";
 import ModalVideo from "react-modal-video";
 import { Link } from "react-router-dom";
+
 const Info = () => {
   const [open, setOpen] = useState(false);
   return (
     <>
-      <section className="zirox-info">
+      <section
+        className="zirox-info   bg-cover bg-center"
+        style={{
+          backgroundImage: `url('https://i.ibb.co.com/TBXMfCZt/financial-consultations.jpg)`,
+        }}
+      >
         <div className="container zirox-choose-us__experience zirox-choose-us__experience--home-2">
           <div className="row align-items-center">
             <div className="col-12 col-lg-6">
@@ -18,7 +24,7 @@ const Info = () => {
                     The Best Financial & Consulting Agency
                   </h2>
                   <p data-aos="fade-up" data-aos-delay="200">
-                    Agency refers to a specialized organization or institution establish to perform specific tasks,functions,or deliver services.
+                    Agency refers to a specialized organization or institution established to perform specific tasks, functions, or deliver services.
                   </p>
                   <Link data-aos="fade-up" data-aos-delay="400" to="/contact" className="zirox-button">
                     Get Consultations

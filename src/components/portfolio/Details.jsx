@@ -5,7 +5,7 @@ const Details = () => {
         <div className="zirox-portfolio-detail-items">
           <div className="zirox-portfolio-detail-items-item">
             <div className="zirox-portfolio-detail-items-item-img">
-              <img src="/img/portfolio/portfolio-detail.png" alt="Business Analysis" />
+              <img src="https://i.ibb.co.com/99sYFqSN/design-concept.jpg" alt="Business Analysis" />
             </div>
             <div className="zirox-portfolio-detail-items-item-info ">
               <div className="row align-items-center">

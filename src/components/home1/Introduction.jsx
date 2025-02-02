@@ -7,7 +7,7 @@ const Introduction = () => {
         <div className="row align-items-center">
           <div className="col-12 col-lg-6">
             <div className="zirox-about__left">
-              <img src="/img/about/introduction-left.png" alt="Image" />
+              <img src="https://i.ibb.co.com/J0K08cv/our-instructions.jpg" alt="Image" />
             </div>
           </div>
           <div className="col-12 col-lg-6">

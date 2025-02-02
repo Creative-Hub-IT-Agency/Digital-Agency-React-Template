@@ -9,10 +9,10 @@ const Projects = () => {
   const totalImages = useRef(0);
 
   const portfolioItems = [
-    { id: 1, category: "web-design", title: "Web Design", image: "/img/latest-project/latest-project-1.png" },
-    { id: 2, category: "branding", title: "Branding", image: "/img/latest-project/latest-project-2.png" },
-    { id: 3, category: "photography", title: "photography", image: "/img/latest-project/latest-project-3.png" },
-    { id: 4, category: "branding", title: "", image: "/img/latest-project/latest-project-4.png" },
+    { id: 1, category: "web-design", title: "Web Design", image: "https://i.ibb.co.com/nNLKZffB/engineering.jpg" },
+    { id: 2, category: "branding", title: "Branding", image: "https://i.ibb.co.com/nNLKZffB/engineering.jpg" },
+    { id: 3, category: "photography", title: "photography", image: "https://i.ibb.co.com/nNLKZffB/engineering.jpg.png" },
+    { id: 4, category: "branding", title: "", image: "https://i.ibb.co.com/nNLKZffB/engineering.jpg" },
   ];
 
   totalImages.current = portfolioItems.length;

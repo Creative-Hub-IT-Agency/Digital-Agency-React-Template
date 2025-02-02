@@ -15,7 +15,7 @@ const Blog = () => {
             <div className="zirox-blog__post">
               <div className="zirox-blog__post-thumbnail">
                 <a href="#" target="_blank">
-                  <img src="/img/blog/thumbnail-4.png" alt="Post Thumbnail" />
+                  <img src="https://i.ibb.co.com/FbPmPgfm/cover-img1.jpg" alt="Post Thumbnail" />
                 </a>
               </div>
               <div className="zirox-blog__post-body">
@@ -52,7 +52,7 @@ const Blog = () => {
             <div className="zirox-blog__post">
               <div className="zirox-blog__post-thumbnail">
                 <a href="#" target="_blank">
-                  <img src="/img/blog/thumbnail-5.png" alt="Post Thumbnail" />
+                  <img src="https://i.ibb.co.com/FbPmPgfm/cover-img1.jpg" alt="Post Thumbnail" />
                 </a>
               </div>
               <div className="zirox-blog__post-body">
@@ -89,7 +89,7 @@ const Blog = () => {
             <div className="zirox-blog__post">
               <div className="zirox-blog__post-thumbnail">
                 <a href="#" target="_blank">
-                  <img src="/img/blog/thumbnail-6.png" alt="Post Thumbnail" />
+                  <img src="https://i.ibb.co.com/FbPmPgfm/cover-img1.jpg" alt="Post Thumbnail" />
                 </a>
               </div>
               <div className="zirox-blog__post-body">

@@ -25,7 +25,7 @@ const Delivery = () => {
         </div>
         <div className="container-fluid">
           <div className="zirox-delivery__video zirox-img-overlay ">
-            <img src="/img/about/delivery-video-bg.png" alt="Video" />
+            <img src="https://i.ibb.co.com/J0K08cv/our-instructions.jpg" alt="Video" />
             <div className="zirox-services-video__popup zirox-services-video__popup--delivery">
               <button onClick={() => setOpen(true)} className="zirox-services-video__popup-img popup-youtube">
                 <span>

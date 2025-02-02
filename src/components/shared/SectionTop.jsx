@@ -2,7 +2,13 @@ import { Link } from "react-router-dom";
 
 const SectionTop = ({ title }) => {
   return (
-    <section className="zirox-hero-section zirox-hero-section--single">
+    <section 
+    style={{
+      backgroundImage: "url('https://i.ibb.co.com/J0K08cv/our-instructions.jpg')",
+      backgroundSize: "cover",
+      backgroundPosition: "center",
+    }}
+    className="zirox-hero-section zirox-hero-section--single">
       <div className="container">
         <div className="row">
           <div className="col-12 col-md-12 col-lg-8 d-flex align-items-center">

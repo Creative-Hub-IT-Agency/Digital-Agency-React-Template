@@ -2,7 +2,10 @@ import { Link } from "react-router-dom";
 
 const WhyChoose = () => {
   return (
-    <section className="zirox-choose-us zirox-choose-us--home-2">
+    <section className="zirox-choose-us zirox-choose-us--home-2 relative bg-cover bg-center"
+    style={{
+      backgroundImage: `url('https://i.ibb.co/XZdPX6xJ/design-concept.jpg')`,
+    }}>
       <div className="container position-relative z-1">
         <div className="zirox-choose-us-vector">
           <img className="zirox-choose-us-vector-right" src="/img/choose-us/home-2-choose-us-right-vector.png" alt="Right Vector" />
@@ -43,7 +46,7 @@ const WhyChoose = () => {
           <div className="col-12 col-lg-6">
             <div className="choose-us__right">
               <div className="choose-us__right-img">
-                <img src="/img/choose-us/home-2-choose-us-right.png" alt="Image" />
+                <img src="https://i.ibb.co.com/XZdPX6xJ/design-concept.jpg" alt="Image" />
               </div>
             </div>
           </div>

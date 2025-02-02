@@ -45,7 +45,7 @@ const Testimonial = () => {
   return (
     <section className="zirox-testimonials zirox-testimonials--home-3 zirox-section">
       <div className="zirox-testimonials__vectors">
-        <img className="zirox-testimonials__vectors-left " src="/img/testimonials/testimonials-bg-vector.png" alt="Vector" />
+        <img className="zirox-testimonials__vectors-left " src="https://i.ibb.co.com/fYqn1pyK/blog-4-1.jpg" alt="Vector" />
       </div>
       <div className="container">
         <div className="row">
@@ -80,8 +80,18 @@ const Testimonial = () => {
                   <div className="zirox-testimonials__item-header">
                     <div className="zirox-testimonials__item-header__author">
                       <div className="zirox-testimonials__item-header__author-img">
-                        <img src="/img/testimonials/author-4.png" alt="Author" />
+                        <img
+                          src="https://i.ibb.co.com/wZLrXDZV/team-7.jpg"
+                          alt="Author"
+                          style={{
+                            width: "77px",
+                            height: "77px",
+                            borderRadius: "50%",
+                            objectFit: "cover",
+                          }}
+                        />
                       </div>
+
                       <div className="zirox-testimonials__item-header__author-info">
                         <h3>Kevin Martin</h3>
                         <h6>Customer</h6>
@@ -103,9 +113,19 @@ const Testimonial = () => {
                 <div className="zirox-testimonials__item ">
                   <div className="zirox-testimonials__item-header">
                     <div className="zirox-testimonials__item-header__author">
-                      <div className="zirox-testimonials__item-header__author-img">
-                        <img src="/img/testimonials/author-5.png" alt="Author" />
+                    <div className="zirox-testimonials__item-header__author-img">
+                        <img
+                          src="https://i.ibb.co.com/wZLrXDZV/team-7.jpg"
+                          alt="Author"
+                          style={{
+                            width: "77px",
+                            height: "77px",
+                            borderRadius: "50%",
+                            objectFit: "cover",
+                          }}
+                        />
                       </div>
+
                       <div className="zirox-testimonials__item-header__author-info">
                         <h3>Kevin Martin</h3>
                         <h6>Customer</h6>
@@ -127,9 +147,19 @@ const Testimonial = () => {
                 <div className="zirox-testimonials__item ">
                   <div className="zirox-testimonials__item-header">
                     <div className="zirox-testimonials__item-header__author">
-                      <div className="zirox-testimonials__item-header__author-img">
-                        <img src="/img/testimonials/author-6.png" alt="Author" />
+                    <div className="zirox-testimonials__item-header__author-img">
+                        <img
+                          src="https://i.ibb.co.com/wZLrXDZV/team-7.jpg"
+                          alt="Author"
+                          style={{
+                            width: "77px",
+                            height: "77px",
+                            borderRadius: "50%",
+                            objectFit: "cover",
+                          }}
+                        />
                       </div>
+
                       <div className="zirox-testimonials__item-header__author-info">
                         <h3>Kevin Martin</h3>
                         <h6>Customer</h6>
@@ -151,9 +181,19 @@ const Testimonial = () => {
                 <div className="zirox-testimonials__item ">
                   <div className="zirox-testimonials__item-header">
                     <div className="zirox-testimonials__item-header__author">
-                      <div className="zirox-testimonials__item-header__author-img">
-                        <img src="/img/testimonials/author-6.png" alt="Author" />
+                    <div className="zirox-testimonials__item-header__author-img">
+                        <img
+                          src="https://i.ibb.co.com/wZLrXDZV/team-7.jpg"
+                          alt="Author"
+                          style={{
+                            width: "77px",
+                            height: "77px",
+                            borderRadius: "50%",
+                            objectFit: "cover",
+                          }}
+                        />
                       </div>
+
                       <div className="zirox-testimonials__item-header__author-info">
                         <h3>Kevin Martin</h3>
                         <h6>Customer</h6>

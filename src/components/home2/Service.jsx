@@ -48,7 +48,8 @@ const Service = () => {
               Expand Your Business With Our Financial Strategy
             </h2>
             <div className="zirox-services__financial-strategy-video ">
-              <img data-aos="fade-up" data-aos-delay="500" src="/img/home-3/services/home-3-services-video.png" alt="video" />
+              <img data-aos="fade-up" data-aos-delay="500"
+               src="https://i.ibb.co.com/zHt14QrR/2149345241.jpg" alt="video" />
               <div className="zirox-services-video__popup zirox-services-video__popup--home-3">
                 <span onClick={() => setOpen(true)} className="zirox-services-video__popup-img cursor-pointer popup-youtube">
                   <span>

@@ -11,7 +11,7 @@ const Team = () => {
         <div className="row">
           <div data-aos="fade-up" className="col-12 col-md-6 col-lg-4">
             <div className="zirox-team-item ">
-              <img src="/img/team/member-1.png" alt="Member-1" />
+              <img src="https://i.ibb.co.com/QFVS0Ykq/team1.jpg" alt="Member-1" />
               <div className="zirox-team-item__info">
                 <h3 className="text-white text-center">Christine Eve</h3>
                 <p className="mb-3 text-center">CEO & Founder</p>
@@ -42,7 +42,7 @@ const Team = () => {
           </div>
           <div data-aos="fade-up" data-aos-delay="300" className="col-12 col-md-6 col-lg-4">
             <div className="zirox-team-item ">
-              <img src="/img/team/member-2.png" alt="Member-2" />
+              <img src="https://i.ibb.co.com/TBzCm35P/team4.jpg" alt="Member-2" />
               <div className="zirox-team-item__info">
                 <h3 className="text-white text-center">Christine Eve</h3>
                 <p className="mb-3 text-center">CEO & Founder</p>
@@ -73,7 +73,7 @@ const Team = () => {
           </div>
           <div data-aos="fade-up" data-aos-delay="600" className="col-12 col-md-6 col-lg-4">
             <div className="zirox-team-item ">
-              <img src="/img/team/member-3.png" alt="Member-3" />
+              <img src="https://i.ibb.co.com/QjMXMWv7/team2.jpg" alt="Member-3" />
               <div className="zirox-team-item__info">
                 <h3 className="text-white text-center">Christine Eve</h3>
                 <p className="mb-3 text-center">CEO & Founder</p>

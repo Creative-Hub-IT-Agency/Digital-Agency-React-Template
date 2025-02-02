@@ -21,10 +21,19 @@ const Hero = () => {
       <div className="zirox-hero__slider__dots"></div>
       <Slider {...settings} className="zirox-hero__slider">
         {/* <!-- Slider Item --> */}
-        <div className="zirox-hero__slider-item zirox-hero">
+        <div className="zirox-hero__slider-item zirox-hero"
+           style={{
+            backgroundImage: "url('https://i.ibb.co.com/J0K08cv/our-instructions.jpg')",
+            backgroundSize: "cover",
+            backgroundPosition: "center",
+          }}
+        >
+
           <div className="container-fluid">
+         
             <div className="row">
               <div className="col-12 col-md-12 col-lg-7 d-flex align-items-center">
+             
                 <div className="zirox-hero__left">
                   <div className="zirox-hero__left__content ">
                     <div data-aos="fade-up" className="zirox-hero__left__content__top">
@@ -49,7 +58,7 @@ const Hero = () => {
               <div className="col-12 col-md-12 col-lg-5">
                 <div className="position-relative">
                   <div data-aos="fade-up" data-aos-delay="700" className="zirox-hero__right">
-                    <img src="/img/home-3/hero/hero-right.png" alt="Image" />
+                    <img src="https://i.ibb.co.com/J0K08cv/our-instructions.jpg" alt="Image" />
                   </div>
                 </div>
               </div>

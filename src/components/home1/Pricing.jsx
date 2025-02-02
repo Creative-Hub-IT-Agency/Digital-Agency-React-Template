@@ -12,7 +12,7 @@ const Pricing = () => {
           <div className="col-12 col-md-6 col-lg-4">
             <div data-aos="fade-up" className="zirox-pricing__table">
               <div className="zirox-pricing__table-head">
-                <img src="/img/pricing/table-1.png" alt="Regular Plan" />
+                <img src="https://i.ibb.co.com/5hG34Tw4/brand2.jpg" alt="Regular Plan" />
                 <div className="zirox-pricing__table-head-price">
                   <h3>45</h3>
                   <span>$</span>
@@ -56,7 +56,7 @@ const Pricing = () => {
           <div className="col-12 col-md-6 col-lg-4">
             <div data-aos="fade-up" data-aos-delay="300" className="zirox-pricing__table">
               <div className="zirox-pricing__table-head">
-                <img src="/img/pricing/table-2.png" alt="Standard Plan" />
+                <img src="https://i.ibb.co.com/nsqC1BqW/brand4.jpg" alt="Standard Plan" />
                 <div className="zirox-pricing__table-head-price">
                   <h3>45</h3>
                   <span>$</span>
@@ -100,7 +100,7 @@ const Pricing = () => {
           <div className="col-12 col-md-6 col-lg-4">
             <div data-aos="fade-up" data-aos-delay="600" className="zirox-pricing__table">
               <div className="zirox-pricing__table-head">
-                <img src="/img/pricing/table-3.png" alt="Premium Plan" />
+                <img src="https://i.ibb.co.com/3YV6KjRF/brad5.jpg" alt="Premium Plan" />
                 <div className="zirox-pricing__table-head-price">
                   <h3>45</h3>
                   <span>$</span>

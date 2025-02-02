@@ -3,7 +3,7 @@ import { Lightbox } from "yet-another-react-lightbox";
 import "yet-another-react-lightbox/styles.css";
 
 const Footer = () => {
-  const images = ["/img/footer/footer-img-1.png", "/img/footer/footer-img-2.png", "/img/footer/footer-img-3.png", "/img/footer/footer-img-4.png", "/img/footer/footer-img-5.png", "/img/footer/footer-img-6.png"];
+  const images = ["https://i.ibb.co.com/FbPmPgfm/cover-img1.jpg", "https://i.ibb.co.com/8DpHv9Yn/img1-3.jpg", "https://i.ibb.co.com/HDP6P73J/img2.jpg", "https://i.ibb.co.com/kgj8sh8L/img3.jpg", "https://i.ibb.co.com/LXhzRVVs/img4.jpg", "https://i.ibb.co.com/gLmbCVyW/img5.jpg"];
 
   const [isOpen, setIsOpen] = useState(false);
   const [index, setIndex] = useState(0);

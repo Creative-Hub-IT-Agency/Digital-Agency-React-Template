@@ -20,7 +20,7 @@ const Testimonial = () => {
             <div className="zirox-testimonials__item ">
               <div className="zirox-testimonials__item-header">
                 <div className="zirox-testimonials__item-header-img">
-                  <img src="/img/testimonials/author-1.png" alt="Author" />
+                  <img src="https://i.ibb.co.com/wZLrXDZV/team-7.jpg" alt="Author" />
                   <span>
                     <i className="flaticon-left-quotes-sign"></i>
                   </span>
@@ -46,7 +46,7 @@ const Testimonial = () => {
             <div className="zirox-testimonials__item ">
               <div className="zirox-testimonials__item-header">
                 <div className="zirox-testimonials__item-header-img">
-                  <img src="/img/testimonials/author-2.png" alt="Author" />
+                  <img src="https://i.ibb.co.com/4ZLhhz0X/team-1.jpg" alt="Author" />
                   <span>
                     <i className="flaticon-left-quotes-sign"></i>
                   </span>
@@ -72,7 +72,7 @@ const Testimonial = () => {
             <div className="zirox-testimonials__item ">
               <div className="zirox-testimonials__item-header">
                 <div className="zirox-testimonials__item-header-img">
-                  <img src="/img/testimonials/author-3.png" alt="Author" />
+                  <img src="https://i.ibb.co.com/mVFVqLgS/team-8.jpg" alt="Author" />
                   <span>
                     <i className="flaticon-left-quotes-sign"></i>
                   </span>

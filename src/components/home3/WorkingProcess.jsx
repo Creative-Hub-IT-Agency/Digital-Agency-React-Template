@@ -1,6 +1,13 @@
 const WorkingProcess = () => {
   return (
-    <section className="zirox-working-process zirox-section">
+    <section
+  
+    style={{
+      backgroundImage: "url('https://i.ibb.co.com/J0K08cv/our-instructions.jpg')",
+      backgroundSize: "cover",
+      backgroundPosition: "center",
+    }}
+    className="zirox-working-process zirox-section">
       <div className="container">
         <h6 data-aos="fade-up" className="text-center">
           Working Process

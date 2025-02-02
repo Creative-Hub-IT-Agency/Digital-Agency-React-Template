@@ -1,3 +1,4 @@
+
 import About from "@/components/home2/About";
 import Blog from "@/components/home2/Blog";
 import Brand from "@/components/home2/Brand";

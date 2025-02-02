@@ -15,7 +15,7 @@ const Service = () => {
             <Link data-aos="fade-up" to="/services-details">
               <div className="zirox-services-box zirox-services-box--home-2">
                 <div className="zirox-services-box-img">
-                  <img src="/img/services/home-2-services-1.png" alt="UX Strategy" />
+                  <img src="https://i.ibb.co.com/MwLw8HL/ux-ui-design.jpg" alt="UX Strategy" />
                   <div className="zirox-services-box-img-icon">
                     <i className="flaticon-web-design"></i>
                   </div>
@@ -31,7 +31,7 @@ const Service = () => {
             <Link data-aos="fade-up" data-aos-delay="300" to="/services-details">
               <div className="zirox-services-box zirox-services-box--home-2">
                 <div className="zirox-services-box-img">
-                  <img src="/img/services/home-2-services-2.png" alt="Engineering" />
+                  <img src="https://i.ibb.co.com/nNLKZffB/engineering.jpg" alt="Engineering" />
                   <div className="zirox-services-box-img-icon">
                     <i className="flaticon-design"></i>
                   </div>
@@ -47,7 +47,7 @@ const Service = () => {
             <Link data-aos="fade-up" data-aos-delay="400" to="/services-details">
               <div className="zirox-services-box zirox-services-box--home-2">
                 <div className="zirox-services-box-img">
-                  <img src="/img/services/home-2-services-3.png" alt="Consultancy" />
+                  <img src="https://i.ibb.co.com/J0K08cv/our-instructions.jpg" alt="Consultancy" />
                   <div className="zirox-services-box-img-icon">
                     <i className="flaticon-business-analyst"></i>
                   </div>

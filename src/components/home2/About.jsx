@@ -6,7 +6,7 @@ const About = () => {
           <div className="col-12 col-lg-6">
             <div className="zirox-about__left">
               <h6 data-aos="fade-up" data-aos-delay="100">
-                About US
+                About Us
               </h6>
               <h2 data-aos="fade-up" data-aos-delay="200">
                 What They&apos;re Talking About Company
@@ -28,7 +28,7 @@ const About = () => {
                 It is a long established fact that a reader will be and at distracted by the readable content.
               </h4>
               <div data-aos="fade-up" data-aos-delay="600" className="zirox-about__left-ceo ">
-                <img className="zirox-about__left-ceo-avatar" src="/img/about/ceo.png" alt="CEO" />
+                <img className="zirox-about__left-ceo-avatar" src="https://i.ibb.co.com/zHt14QrR/2149345241.jpg" alt="CEO" />
                 <img className="zirox-about__left-ceo-signature" src="/img/about/signature.png" alt="Signature" />
                 <h4>CEO Foundation</h4>
               </div>
@@ -37,7 +37,8 @@ const About = () => {
           <div className="col-12 col-lg-6">
             <div className="zirox-about__right ">
               <div className="zirox-about__right-img zirox-img-overlay">
-                <img data-aos="fade-up" data-aos-delay="700" src="/img/about/home-3-about-right.png" alt="Image" />
+                <img data-aos="fade-up" data-aos-delay="700"
+                 src="https://i.ibb.co.com/J0K08cv/our-instructions.jpg"  alt="Image"  />
               </div>
               <a href="#">
                 <div data-aos="fade-up" data-aos-delay="800" className="zirox-about__right-project ">

@@ -1,6 +1,8 @@
 const Footer = () => {
   return (
-    <footer className="zirox-footer zirox-footer--home-3">
+    <footer
+    
+    className="zirox-footer zirox-footer--home-3">
       <div className="container zirox-footer-delivery">
         <div className="zirox-footer-delivery__content">
           <h2 className="mb-0 text-white z-1">We&apos;re Delivering The Best Experience</h2>

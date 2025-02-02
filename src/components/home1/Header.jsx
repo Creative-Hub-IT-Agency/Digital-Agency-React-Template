@@ -21,7 +21,14 @@ const Header = () => {
       {/* <!-- Overlay --> */}
       <div onClick={() => setMobileMenu(false)} className={`overlay ${mobileMenu && "overlay--active"}`}></div>
       {/* <!-- Header --> */}
-      <header className="zirox-header zirox-header--home-2">
+      <header
+
+      style={{
+        backgroundImage: "url('https://i.ibb.co.com/J0K08cv/our-instructions.jpg')",
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+      }}
+       className="zirox-header zirox-header--home-2">
         <div className="zirox-header__top-bar zirox-header__top-bar--home-2 d-none d-xl-block">
           <div className="container-fluid">
             <div className="row align-items-center justify-content-between">

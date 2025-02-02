@@ -13,7 +13,7 @@ const HowItWork = () => {
             <a data-aos="fade-up" href="#">
               <div className="zirox-how-it-work-item ">
                 <div className="zirox-how-it-work-item-img">
-                  <img src="/img/how-it-work/work-1.png" alt="Web Development" />
+                  <img src="https://i.ibb.co.com/nsHm5Crk/web-development.jpg" alt="Web Development" />
                 </div>
                 <div className="zirox-how-it-work-item-icon">
                   <i className="flaticon-back-end"></i>
@@ -28,7 +28,7 @@ const HowItWork = () => {
             <a data-aos="fade-up" data-aos-delay="300" href="#">
               <div className="zirox-how-it-work-item ">
                 <div className="zirox-how-it-work-item-img">
-                  <img src="/img/how-it-work/work-2.png" alt="Engine Optimization" />
+                  <img src="https://i.ibb.co.com/xtj93W8b/engine-optimizations.jpg" alt="Engine Optimization" />
                 </div>
                 <div className="zirox-how-it-work-item-icon">
                   <i className="flaticon-planning-1"></i>
@@ -43,7 +43,7 @@ const HowItWork = () => {
             <a data-aos="fade-up" data-aos-delay="600" href="#">
               <div className="zirox-how-it-work-item ">
                 <div className="zirox-how-it-work-item-img">
-                  <img src="/img/how-it-work/work-3.png" alt="Design & Concept" />
+                  <img src="https://i.ibb.co.com/XZdPX6xJ/design-concept.jpg" alt="Design & Concept" />
                 </div>
                 <div className="zirox-how-it-work-item-icon">
                   <i className="flaticon-development"></i>

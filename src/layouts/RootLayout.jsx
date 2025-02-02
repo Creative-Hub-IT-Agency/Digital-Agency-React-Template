@@ -9,7 +9,7 @@ const RootLayout = () => {
       <Header />
       <Outlet />
       <ScrollToTop />
-      <Footer />
+      {/* <Footer /> */}
     </>
   );
 };

@@ -8,7 +8,7 @@ const Details = ({ blog }) => {
             <div className="zirox-blog-detail__left">
               <div className="zirox-blog-detail__left-blog">
                 <div className="zirox-blog-detail__left-blog-img ">
-                  <img src="/img/blog/blog-detail-thumbnail.png" alt="Marketing" />
+                  <img src="https://i.ibb.co.com/fYqn1pyK/blog-4-1.jpg" alt="Marketing" />
                 </div>
                 <div className="zirox-blog-detail__left-blog-content ">
                   <ul className="zirox-blog-detail__left-blog-content-head">
@@ -104,7 +104,7 @@ const Details = ({ blog }) => {
                 </div>
                 <div className="zirox-blog-detail__left-blog-author">
                   <div className="zirox-blog-detail__left-blog-author-img">
-                    <img src="/img/blog/blog-detail-author.png" alt="Author" />
+                    <img src="https://i.ibb.co.com/mVFVqLgS/team-8.jpg" alt="Author" />
                   </div>
                   <div className="zirox-blog-detail__left-blog-author-info">
                     <h3>
@@ -140,7 +140,7 @@ const Details = ({ blog }) => {
                   <div className="zirox-blog-detail__left-blog-comments-items">
                     <div className="zirox-blog-detail__left-blog-comments-items-item">
                       <div className="zirox-blog-detail__left-blog-comments-items-item-author-img">
-                        <img src="/img/blog/blog-detail-author-2.png" alt="Author" />
+                        <img src="https://i.ibb.co.com/QjMXMWv7/team2.jpg" alt="Author" />
                       </div>
                       <div>
                         <h4>
@@ -159,7 +159,7 @@ const Details = ({ blog }) => {
                     </div>
                     <div className="zirox-blog-detail__left-blog-comments-items-item">
                       <div className="zirox-blog-detail__left-blog-comments-items-item-author-img">
-                        <img src="/img/blog/blog-detail-author-3.png" alt="Author" />
+                        <img src="https://i.ibb.co.com/4ZLhhz0X/team-1.jpg" alt="Author" />
                       </div>
                       <div>
                         <h4>

@@ -4,7 +4,12 @@ const WhyUs = () => {
   const [open, setOpen] = useState(false);
   return (
     <>
-      <section className="zirox-choose-us zirox-section">
+      <section style={{
+       backgroundImage: "url('https://i.ibb.co.com/J0K08cv/our-instructions.jpg')",
+       backgroundSize: "cover",
+       backgroundPosition: "center",
+     }}
+      className="zirox-choose-us zirox-section">
         <div className="zirox-choose-us__vector">
           <img className="zirox-choose-us__vector-one" src="/img/choose-us/choose-us-vector-1.png" alt="Vector" />
           <img className="zirox-choose-us__vector-two" src="/img/choose-us/choose-us-vector-2.png" alt="Vector" />
@@ -15,7 +20,7 @@ const WhyUs = () => {
             <div className="row align-items-center">
               <div className="col-12 col-lg-6">
                 <div className="zirox-choose-us__left">
-                  <img src="/img/choose-us/choose-us-left.png" alt="Choose Us" />
+                  <img src="https://i.ibb.co.com/J0K08cv/our-instructions.jpg" alt="Choose Us" />
                 </div>
               </div>
               <div className="col-12 col-lg-6">

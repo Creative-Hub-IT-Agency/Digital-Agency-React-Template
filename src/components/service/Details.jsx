@@ -48,7 +48,7 @@ const Details = () => {
             <div className="col-12 col-md-8">
               <div className="zirox-services-details__left">
                 <div className="zirox-services-details__left-main-img ">
-                  <img src="/img/services/services-detail-img-1.png" alt="Main Image" />
+                  <img src="https://i.ibb.co.com/99sYFqSN/design-concept.jpg" alt="Main Image" />
                 </div>
                 <div className="zirox-services-details__left-data-visualization ">
                   <h3>Data Visualization</h3>
@@ -74,7 +74,7 @@ const Details = () => {
                 </div>
                 <div className="zirox-services-details__left-video ">
                   <div className="zirox-services-details__left-video-img">
-                    <img src="/img/services/services-detail-img-2.png" alt="Video" />
+                    <img src="https://i.ibb.co.com/99sYFqSN/design-concept.jpg" alt="Video" />
                     <div className="zirox-services-video__popup">
                       <span onClick={() => setOpen(true)} className="cursor-pointer zirox-services-video__popup-img popup-youtube">
                         <span>
@@ -119,7 +119,7 @@ const Details = () => {
                   <div className="row">
                     <div className="col-12 col-lg-5">
                       <div className="zirox-services-details__left-marketing-strategy-img">
-                        <img src="/img/services/services-detail-img-3.png" alt="" />
+                        <img src="https://i.ibb.co.com/99sYFqSN/design-concept.jpg" alt="" />
                       </div>
                     </div>
                     <div className="col-12 col-lg-7">

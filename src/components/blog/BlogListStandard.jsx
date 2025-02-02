@@ -119,7 +119,7 @@ const BlogListStandard = () => {
                   <li>
                     <a href="#" className="zirox-blog-standard__right-box-latest-news-list">
                       <div className="zirox-blog-standard__right-box-latest-news-list-img">
-                        <img src="/img/blog/blog-standard-latest-news-1.png" alt="Latest News" />
+                        <img src="https://i.ibb.co.com/TBXMfCZt/financial-consultations.jpg" alt="Latest News" style={{ width: "77px", height: "77px" }} />
                       </div>
                       <div className="zirox-blog-standard__right-box-latest-news-list-text">
                         <h4>Excepteur sint occaecat cupidatat non proident, sunt in</h4>
@@ -130,7 +130,7 @@ const BlogListStandard = () => {
                   <li>
                     <a href="#" className="zirox-blog-standard__right-box-latest-news-list">
                       <div className="zirox-blog-standard__right-box-latest-news-list-img">
-                        <img src="/img/blog/blog-standard-latest-news-2.png" alt="Latest News" />
+                        <img src="https://i.ibb.co.com/TBXMfCZt/financial-consultations.jpg" alt="Latest News" style={{ width: "77px", height: "77px" }} />
                       </div>
                       <div className="zirox-blog-standard__right-box-latest-news-list-text">
                         <h4>Excepteur sint occaecat cupidatat non proident, sunt in</h4>
@@ -141,7 +141,7 @@ const BlogListStandard = () => {
                   <li>
                     <a href="#" className="zirox-blog-standard__right-box-latest-news-list">
                       <div className="zirox-blog-standard__right-box-latest-news-list-img">
-                        <img src="/img/blog/blog-standard-latest-news-3.png" alt="Latest News" />
+                        <img src="https://i.ibb.co.com/TBXMfCZt/financial-consultations.jpg" alt="Latest News" style={{ width: "77px", height: "77px" }} />
                       </div>
                       <div className="zirox-blog-standard__right-box-latest-news-list-text">
                         <h4>Excepteur sint occaecat cupidatat non proident, sunt in</h4>

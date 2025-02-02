@@ -41,7 +41,7 @@ const PopularServices = () => {
             </div>
             <div className="col-12 col-md-6 col-lg-5">
               <div data-aos="fade-up" data-aos-delay="500" className="zirox-services-video ">
-                <img src="/img/services/service-img.png" alt="Video" />
+                <img src="https://i.ibb.co.com/MwLw8HL/ux-ui-design.jpg" alt="Video" />
                 <div className="zirox-services-video__popup">
                   <span onClick={() => setOpen(true)} className="zirox-services-video__popup-img popup-youtube">
                     <span>

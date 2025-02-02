@@ -2,7 +2,13 @@ import { Link } from "react-router-dom";
 
 const Customer = () => {
   return (
-    <section className="zirox-customer-retention">
+    <section
+    style={{
+      backgroundImage: "url('https://i.ibb.co.com/J0K08cv/our-instructions.jpg')",
+      backgroundSize: "cover",
+      backgroundPosition: "center",
+    }}
+     className="zirox-customer-retention">
       <div className="container">
         <div className="row align-items-center">
           <div className="col-12 col-lg-8">

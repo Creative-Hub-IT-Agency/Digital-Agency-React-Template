@@ -2,7 +2,13 @@ import { Link } from "react-router-dom";
 
 const AboutUs3 = () => {
   return (
-    <section className="zirox-about zirox-section">
+    <section 
+    // style={{
+    //   backgroundImage: "url('https://i.ibb.co.com/J0K08cv/our-instructions.jpg')",
+    //   backgroundSize: "cover",
+    //   backgroundPosition: "center",
+    // }}
+    className="zirox-about zirox-section">
       <div className="container">
         <div className="row">
           <div className="col-12 col-lg-6">
@@ -13,7 +19,13 @@ const AboutUs3 = () => {
                   <p>Years of Experience</p>
                 </div>
                 <div className="zirox-about__left__bg__img overflow-hidden"></div>
-                <div className="zirox-about__left__front__img overflow-hidden"></div>
+          
+                <img
+  src="https://i.ibb.co.com/J0K08cv/our-instructions.jpg"
+  alt=""
+  style={{ width: '500px', height: '500px', objectFit: 'cover' }}
+/>
+
               </div>
             </div>
           </div>

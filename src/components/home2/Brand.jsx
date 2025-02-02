@@ -39,22 +39,22 @@ const Brand = () => {
       <div className="container">
         <Slider {...settings} className="zirox-brand__items">
           <a href="#" className="zirox-brand__items-item">
-            <img src="/img/brand/envato.png" alt="Envato" />
+            <img src="https://i.ibb.co.com/b5BTzQ8k/brand1.jpg" alt="Envato" />
           </a>
           <a href="#" className="zirox-brand__items-item">
-            <img src="/img/brand/envato.png" alt="Envato" />
+            <img src="https://i.ibb.co.com/5hG34Tw4/brand2.jpg" alt="Envato" />
           </a>
           <a href="#" className="zirox-brand__items-item">
-            <img src="/img/brand/envato.png" alt="Envato" />
+            <img src="https://i.ibb.co.com/fVR00Z0Z/brand3.jpg" alt="Envato" />
           </a>
           <a href="#" className="zirox-brand__items-item">
-            <img src="/img/brand/envato.png" alt="Envato" />
+            <img src="https://i.ibb.co.com/3YV6KjRF/brad5.jpg" alt="Envato" />
           </a>
           <a href="#" className="zirox-brand__items-item">
-            <img src="/img/brand/envato.png" alt="Envato" />
+            <img src="https://i.ibb.co.com/nsqC1BqW/brand4.jpg" alt="Envato" />
           </a>
           <a href="#" className="zirox-brand__items-item">
-            <img src="/img/brand/envato.png" alt="Envato" />
+            <img src="https://i.ibb.co.com/b5BTzQ8k/brand1.jpg" alt="Envato" />
           </a>
         </Slider>
       </div>

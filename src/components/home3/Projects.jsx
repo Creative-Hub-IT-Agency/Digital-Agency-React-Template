@@ -14,7 +14,8 @@ const Projects = () => {
           <div data-aos="fade-up" className="col-12 col-md-6">
             <Link to="/portfolio-details">
               <div className="zirox-projects-item ">
-                <img src="/img/projects/project-1.png" alt="Project 1" />
+                <img src="https://i.ibb.co.com/HDP6P73J/img2.jpg" alt="Project 1" style={{ width: "570px", height: "350px" }} />
+
                 <div className="zirox-projects-item__detail">
                   <h3>Co-Working Solutions</h3>
                   <p>Marketing, Consultant</p>
@@ -25,7 +26,7 @@ const Projects = () => {
           <div data-aos="fade-up" data-aos-delay="200" className="col-12 col-md-6">
             <Link to="/portfolio-details">
               <div className="zirox-projects-item ">
-                <img src="/img/projects/project-2.png" alt="Project 2" />
+                <img src="https://i.ibb.co.com/kgj8sh8L/img3.jpg" alt="Project 2" style={{ width: "570px", height: "350px" }} />
                 <div className="zirox-projects-item__detail">
                   <h3>Co-Working Solutions</h3>
                   <p>Marketing, Consultant</p>
@@ -36,7 +37,7 @@ const Projects = () => {
           <div data-aos="fade-up" data-aos-delay="400" className="col-12 col-md-4 lg-3">
             <Link to="/portfolio-details">
               <div className="zirox-projects-item ">
-                <img src="/img/projects/project-3.png" alt="Project 3" />
+                <img src="https://i.ibb.co.com/8DpHv9Yn/img1-3.jpg" alt="Project 3" tyle={{ width: "570px", height: "350px" }} />
                 <div className="zirox-projects-item__detail">
                   <h3>Co-Working Solutions</h3>
                   <p>Marketing, Consultant</p>
@@ -47,7 +48,7 @@ const Projects = () => {
           <div data-aos="fade-up" data-aos-delay="600" className="col-12 col-md-4 lg-3">
             <Link to="/portfolio-details">
               <div className="zirox-projects-item ">
-                <img src="/img/projects/project-4.png" alt="Project 4" />
+                <img src="https://i.ibb.co.com/LXhzRVVs/img4.jpg" alt="Project 4" tyle={{ width: "570px", height: "350px" }} />
                 <div className="zirox-projects-item__detail">
                   <h3>Co-Working Solutions</h3>
                   <p>Marketing, Consultant</p>
@@ -58,7 +59,7 @@ const Projects = () => {
           <div data-aos="fade-up" data-aos-delay="800" className="col-12 col-md-4 lg-3">
             <Link to="/portfolio-details">
               <div className="zirox-projects-item ">
-                <img src="/img/projects/project-5.png" alt="Project 5" />
+                <img src="https://i.ibb.co.com/gLmbCVyW/img5.jpg" alt="Project 5" tyle={{ width: "570px", height: "350px" }} />
                 <div className="zirox-projects-item__detail">
                   <h3>Co-Working Solutions</h3>
                   <p>Marketing, Consultant</p>

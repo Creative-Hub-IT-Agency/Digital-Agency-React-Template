@@ -34,7 +34,7 @@ const Contact = () => {
           </div>
           <div className="col-12 col-md-5 col-lg-3">
             <div className="zirox-contact__right">
-              <img src="/img/contact/contact-right.png" alt="Image" />
+              <img src="https://i.ibb.co.com/b5BTzQ8k/brand1.jpg" alt="Image" />
             </div>
           </div>
         </div>

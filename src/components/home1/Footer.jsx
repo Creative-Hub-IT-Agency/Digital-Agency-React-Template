@@ -55,36 +55,36 @@ const Footer = () => {
           </div>
           <div className="col-12 col-md-5 col-lg-3">
             <div data-aos="fade-up" data-aos-delay="400" className="zirox-footer__gallery">
-              <h3>Gallery</h3>
+              <h3>Gallery </h3>
               <div className="row">
                 <div className="col-4 mb-3">
                   <a href="/img/footer/footer-img-1.png" className="footer-gallery-item" title="Image 1">
-                    <img src="/img/footer/footer-img-1.png" alt="Image 1" />
+                    <img src="https://i.ibb.co.com/fYqn1pyK/blog-4-1.jpg" alt="Image 1" />
                   </a>
                 </div>
                 <div className="col-4 mb-3">
                   <a href="/img/footer/footer-img-2.png" className="footer-gallery-item" title="Image 2">
-                    <img src="/img/footer/footer-img-2.png" alt="Image" />
+                    <img src="https://i.ibb.co.com/fYqn1pyK/blog-4-1.jpg" alt="Image" />
                   </a>
                 </div>
                 <div className="col-4 mb-3">
                   <a href="/img/footer/footer-img-3.png" className="footer-gallery-item" title="Image 3">
-                    <img src="/img/footer/footer-img-3.png" alt="Image 3" />
+                    <img src="https://i.ibb.co.com/fYqn1pyK/blog-4-1.jpg" alt="Image 3" />
                   </a>
                 </div>
                 <div className="col-4 mb-3">
                   <a href="/img/footer/footer-img-4.png" className="footer-gallery-item" title="Image 4">
-                    <img src="/img/footer/footer-img-4.png" alt="Image 4" />
+                    <img src="https://i.ibb.co.com/fYqn1pyK/blog-4-1.jpg" alt="Image 4" />
                   </a>
                 </div>
                 <div className="col-4 mb-3">
                   <a href="/img/footer/footer-img-5.png" className="footer-gallery-item" title="Image 5">
-                    <img src="/img/footer/footer-img-5.png" alt="Image 5" />
+                    <img src="https://i.ibb.co.com/fYqn1pyK/blog-4-1.jpg" alt="Image 5" />
                   </a>
                 </div>
                 <div className="col-4 mb-3">
                   <a href="/img/footer/footer-img-6.png" className="footer-gallery-item" title="Image 6">
-                    <img src="/img/footer/footer-img-6.png" alt="Image 6" />
+                    <img src="https://i.ibb.co.com/fYqn1pyK/blog-4-1.jpg" alt="Image 6" />
                   </a>
                 </div>
               </div>

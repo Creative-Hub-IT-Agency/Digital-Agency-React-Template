@@ -17,7 +17,9 @@ const Hero = () => {
     ),
   };
   return (
-    <section className="zirox-hero-section hero-3">
+    <section
+   
+    className="zirox-hero-section hero-3">
       <Slider {...settings} className="zirox-hero__slider">
         {/* <!-- Slider Item --> */}
         <div className="zirox-hero__slider-item zirox-hero">
