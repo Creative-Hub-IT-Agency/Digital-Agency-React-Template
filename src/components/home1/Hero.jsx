@@ -26,7 +26,7 @@ const Hero = () => {
     <>
       <section
         style={{
-          backgroundImage: "url('https://imgur.com/oQyGhCl.jpg')",
+          backgroundImage: "url('https://imgur.com/scA7Euu.jpg')",
           backgroundSize: "cover",
           backgroundPosition: "center",
         }}
@@ -101,7 +101,7 @@ const Hero = () => {
             <div
               className="zirox-hero__slider-item zirox-hero"
               style={{
-                backgroundImage: "url('https://imgur.com/oQyGhCl.jpg')",
+                backgroundImage: "url('https://imgur.com/scA7Euu.jpg')",
                 backgroundSize: "cover",
                 backgroundPosition: "center",
               }}
